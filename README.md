@@ -9,7 +9,7 @@ By this way, you will found in each exercise:
 - All the code documented.
 
 Visit all the different exercises using links: 
-1.
+1. <a href="https://github.com/JulitoxD/Project_02_JAVA-POO/tree/main/Exercise_1">Exercise 1</a>
 2.
 3.
 4.
