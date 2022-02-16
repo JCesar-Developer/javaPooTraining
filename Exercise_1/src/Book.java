@@ -71,14 +71,17 @@ public class Book {
         Book longerBook = null;
 
         for (Book b : books) {
-            if ( b.getPages() > maxPages ) longerBook = b;
+            if ( b.getPages() > maxPages ) {
+                maxPages   = b.getPages();
+                longerBook = b;
+            }
         }
 
         //SHOWING THE LONGEST BOOK IN THE LIBRARY
-        System.out.println("\n------------------------------------------------------");
+        System.out.println("\n-----------------------------------------------------------");
         System.out.println("The longest book is: " + longerBook.title +
                 ", with " + longerBook.pages + " pages.");
-        System.out.println("------------------------------------------------------");
+        System.out.println("-----------------------------------------------------------");
 
     }
 
