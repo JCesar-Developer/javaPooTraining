@@ -1,9 +1,8 @@
-# Project_02_JAVA-POO
+# Java POO Training
 
-In this project there're solved 14 different programming exercises, using POO with the JAVA language. 
-The focuss of these fourteen diferent projects it's to use the good software architecture practices to solve each one of these. 
+In this project there're solved 14 different programming exercises, using POO with the JAVA language and the windows/linux shell. The focuss of these fourteen diferent projects it's to use the good software architecture practices to solve each one of these. 
+
 By this way, you will found in each exercise:
-
 - A UML diagram.
 - Unit Testing with JUnit5.
 - All the code documented.
